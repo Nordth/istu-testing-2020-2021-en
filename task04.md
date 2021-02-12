@@ -99,7 +99,7 @@ function binarySearch(sortedArray, seekElement) {
   
 --------------------
 
-3) [Bubble Sort](https://github.com/trekhleb/javascript-algorithms/blob/master/src/algorithms/sorting/bubble-sort/README.md)
+4) [Bubble Sort](https://github.com/trekhleb/javascript-algorithms/blob/master/src/algorithms/sorting/bubble-sort/README.md)
 
 ```
 function sort(originalArray) {
